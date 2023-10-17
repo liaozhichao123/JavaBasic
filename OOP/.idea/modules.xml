@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestException/TestException.iml" filepath="$PROJECT_DIR$/TestException/TestException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/常用类/常用类.iml" filepath="$PROJECT_DIR$/常用类/常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/飞机大战/飞机大战.iml" filepath="$PROJECT_DIR$/飞机大战/飞机大战.iml" />
+    </modules>
+  </component>
+</project>
